@@ -278,7 +278,7 @@ shopify-bw-agent/
 | Document | Description |
 |---|---|
 | [CHANGELOG.md](CHANGELOG.md) | Full version history following Keep a Changelog format |
-| [METHODOLOGY.md](METHODOLOGY.md) | Architecture decisions, integration pathway rationale, design tradeoffs |
+| [METHODOLOGY.md](METHODOLOGY.md) | Architecture decisions, integration pathway rational, design tradeoffs |
 | [SECURITY.md](SECURITY.md) | Security model, credential handling, vulnerability disclosure process |
 
 ---
