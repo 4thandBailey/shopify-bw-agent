@@ -4,7 +4,7 @@
 
 # Shopify ↔ Sage BusinessWorks Middleware Agent
 
-**Automatically synchronise orders, inventory, fulfillments, customers, and pricing between Shopify and Sage BusinessWorks — no manual data entry required.**
+**Automatically synchronize orders, inventory, fulfillments, customers, and pricing between Shopify and Sage BusinessWorks — no manual data entry required.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Node.js](https://img.shields.io/badge/Node.js-18%2B-brightgreen)](https://nodejs.org)
@@ -38,7 +38,7 @@ Most Shopify ↔ Sage integrations assume a cloud ERP. Sage BusinessWorks is dif
 - ✅ **Automatic restart** — recovers from failures with configurable retry policy and exponential back-off
 - ✅ **Real-time order sync** — Shopify webhooks trigger immediate order import into BusinessWorks
 - ✅ **Bidirectional sync** — data flows in both directions across all five key data domains
-- ✅ **Change detection** — inventory and pricing only update when values actually change, minimising API calls
+- ✅ **Change detection** — inventory and pricing only update when values actually change, minimizing API calls
 - ✅ **Graceful shutdown** — waits for in-progress sync flows to complete before stopping
 - ✅ **Persistent state** — sync cursors survive service restarts via JSON state files
 - ✅ **Structured logging** — daily rotating log files with configurable retention
@@ -285,7 +285,7 @@ shopify-bw-agent/
 
 ## Implementation Services
 
-This agent is open source and free to use. If you need professional implementation, customisation, or ongoing support, [4th and Bailey](https://4thandbailey.com) provides enterprise IT consulting services nationwide.
+This agent is open source and free to use. If you need professional implementation, customization, or ongoing support, [4th and Bailey](https://4thandbailey.com) provides enterprise IT consulting services nationwide.
 
 📧 [inquiries@4thandbailey.com](mailto:inquiries@4thandbailey.com)
 📞 (888) 305-5977
